@@ -1,15 +1,21 @@
 //include your name and matric number here
 //display the string below using the string function state below.
-
+//HAIQAL ADAM
+//A17DW0071
+#include <string.h>
 #include <iostream>
+using namespace std;
 
 int main()
 {
-	char engkau[10];
+	char x[10];
 
-	//stringcopy(a,"hello");
-	
-	cout<<engkau;
+	strcpy(x,"lol");
+		
+	cout<<x;
 
 	return 0;
 }
+
+//updated
+//signed by haiqal
